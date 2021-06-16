@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1 className="App-title">Mi primera app React</h1>
+      <h1 className="App-title">Mi primera Aplicación</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-intro">
-To get started, edit <code>src/App.js</code> and save to reload
+        Esta es mi primera aplicación en React, está padrísimo! <code>src/App.js</code>
 </p>
         <a
           className="App-link"
